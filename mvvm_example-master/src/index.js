@@ -1,1 +1,0 @@
-window.MVVM = require('./mvvm')
